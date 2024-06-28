@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: usermaven-js
-        image: eu.gcr.io/usermaven/usermaven-js-stage:latest
+        image: ghcr.io/amna0125/usermaven-js-stage:9f3a24eb820929380ab2decda90bbbf8257e5506
         ports:
         - containerPort: 80
 ---
