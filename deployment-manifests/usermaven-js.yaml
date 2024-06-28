@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: usermaven-js
-        image: ghcr.io/amna0125/usermaven-js:1.4.22
+        image: ghcr.io/amna0125/usermaven-js:1.5.0
         ports:
         - containerPort: 80
 ---
